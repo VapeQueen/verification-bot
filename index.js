@@ -1,7 +1,7 @@
 // Some hardcoded variables that you can change
 const prefix = "!"
-const guild_id = "488540747361026058"
-const verified_role_id = "652669689683509249"
+const guild_id = "763977007574155274"
+const verified_role_id = "763978949273190400"
 const welcome_emoji_id = "637434582500900864"
 const reaction_emoji_id = "720420182538977281"
 
